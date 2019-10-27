@@ -1,0 +1,142 @@
+
+body{
+  background-color: #f2f2f2;
+}
+
+.text{
+text-align: center;
+color: #404040;
+}
+
+.title{
+font-size: 30px;
+font-family: Tahoma;
+font-weight: bold;
+}
+
+.discription{
+font-size: 15px;
+font-family: Tahoma;
+}
+
+.pictures_container{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: center;
+align-content: center;
+justify-content: space-around;
+text-align: center;
+object-fit: contain;
+}
+
+h2{
+  font-family: Tahoma;
+  font-weight: bold;
+  font-size: 40px;
+  color: white;
+  align-content: center;
+  align-items: center;
+}
+
+span.item_SanFrancisco{
+  display: flex;
+  height: 350px;
+  width: 350px;
+  margin: 15px;
+  background-image: url("../img/san-francisco.jpg");
+  position: relative;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+  background-size: cover;
+
+}
+
+span.item_NewYork{
+  display: flex;
+  height: 350px;
+  width: 350px;
+  margin: 15px;
+  background-image: url("../img/new-york.jpg");
+  position: relative;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+  background-size: cover;
+}
+
+span.item_London{
+  display: flex;
+  height: 350px;
+  width: 350px;
+  margin: 15px;
+  background-image: url("../img/london.jpg");
+  position: relative;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+  background-size: cover;
+}
+
+span.item_Napa{
+  display: flex;
+  height: 350px;
+  width: 350px;
+  margin: 15px;
+  background-image: url("../img/napa.jpg");
+  position: relative;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+  background-size: cover;
+}
+
+span.item_Sonoma{
+  display: flex;
+  height: 350px;
+  width: 350px;
+  margin: 15px;
+  background-image: url("../img/sonoma.jpg");
+  position: relative;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+  background-size: cover;
+}
+
+span.item_San_Francisco{
+  display: flex;
+  height: 350px;
+  width: 350px;
+  margin: 15px;
+  background-image: url("../img/san-francisco-2.jpg");
+  position: relative;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+  background-size: cover;
+}
+
+.button{
+background-color: white;
+border-color: darkgray;
+padding: 15px;
+text-align: center;
+display: block;
+font-size: 15px;
+font-family: Tahoma;
+text-align: center;
+color: #404040;
+align-items: center;
+align-content: center;
+margin-left:40%;
+margin-right:60%;
+width: 300px;;
+}
