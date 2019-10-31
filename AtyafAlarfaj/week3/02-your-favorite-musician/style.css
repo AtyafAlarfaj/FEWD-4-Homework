@@ -1,0 +1,167 @@
+
+body{
+  background-color: lightblue;
+}
+
+.text{
+text-align: center;
+color: #404040;
+}
+
+.title{
+font-size: 30px;
+font-family: Tahoma;
+font-weight: bold;
+}
+
+.discription{
+font-size: 15px;
+font-family: Tahoma;
+}
+
+.pictures_container{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: center;
+align-content: center;
+justify-content: space-around;
+text-align: center;
+object-fit: contain;
+flex-grow: 1;
+}
+
+h2{
+  font-family: Tahoma;
+  font-weight: bold;
+  font-size: 40px;
+  color: white;
+  align-content: center;
+  align-items: center;
+}
+
+span.item_Quate1{
+  display: flex;
+  min-height: 350px;
+  min-width: 350px;
+  margin: 15px;
+  background-image: url("Quate1.jpg");
+  position: relative;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+  background-size: cover;
+}
+
+span.item_Quate2{
+  display: flex;
+  min-height: 350px;
+  min-width: 350px;
+  margin: 15px;
+  background-image: url("Quate2.jpg");
+  position: relative;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+  background-size: cover;
+}
+
+span.item_Quate3{
+  display: flex;
+  min-height: 350px;
+  min-width: 350px;
+  margin: 15px;
+  background-image: url("3.jpg");
+  position: relative;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+  background-size: cover;
+}
+
+span.item_Quate4{
+  display: flex;
+  height: 350px;
+  width: 350px;
+  margin: 15px;
+  background-image: url("4.jpg");
+  position: relative;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+  background-size: cover;
+}
+
+span.item_Quate5{
+  display: flex;
+  height: 350px;
+  width: 350px;
+  margin: 15px;
+  background-image: url("maxresdefault.jpg");
+  position: relative;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+  background-size: cover;
+}
+
+span.item_Quate6{
+  display: flex;
+  height: 350px;
+  width: 350px;
+  margin: 15px;
+  background-image: url("6.jpg");
+  position: relative;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+  background-size: cover;
+}
+
+span.item_Quate7{
+  display: flex;
+  height: 350px;
+  width: 350px;
+  margin: 15px;
+  background-image: url("7.jpg");
+  position: relative;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+  background-size: cover;
+}
+
+span.item_Quate8{
+  display: flex;
+  height: 350px;
+  width: 350px;
+  margin: 15px;
+  background-image: url("Quate12.jpeg");
+  position: relative;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+  background-size: cover;
+}
+
+span.item_Quate9{
+  display: flex;
+  height: 350px;
+  width: 350px;
+  margin: 15px;
+  background-image: url("Quate10.jpg");
+  position: relative;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+  background-size: cover;
+}
